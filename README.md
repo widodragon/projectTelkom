@@ -1,1 +1,5 @@
 # projectTelkom
+
+## member
+* Wido
+* Taufiq
